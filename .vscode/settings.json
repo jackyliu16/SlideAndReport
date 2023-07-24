@@ -1,5 +1,6 @@
 {
     "markdown.marp.themes": [
-        "https://raw.githubusercontent.com/rnd195/my-marp-themes/live/beam.css"
+        // "https://raw.githubusercontent.com/rnd195/my-marp-themes/live/beam.css"
+        "./CSS/beam.css"
     ]
 }

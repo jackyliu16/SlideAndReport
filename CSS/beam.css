@@ -137,3 +137,9 @@ section.tinytext>ul,
 section.tinytext>blockquote {
   font-size: 0.65em;
 }
+
+section.hugetext>p,
+section.hugetext>ul,
+section.hugetext>blockquote {
+  font-size: 1.0em;
+}
